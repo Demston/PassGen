@@ -1,4 +1,4 @@
-'''Генератор паролей'''
+"""Генератор паролей"""
 
 import random
 import string
@@ -25,10 +25,3 @@ while True:
         break
     elif exit_from == 'n' or exit_from == 'N':
         continue
-
-
-
-
-
-
-
